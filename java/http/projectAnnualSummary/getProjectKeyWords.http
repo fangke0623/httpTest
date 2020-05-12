@@ -1,0 +1,8 @@
+POST https://zz-test05.pinming.org/person/api/front/person/getProjectKeyWords.htm
+Accept: application/json, text/plain,
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+
+query.projectCode=2c92d2846f320652016f5aab964d1150
+
+###

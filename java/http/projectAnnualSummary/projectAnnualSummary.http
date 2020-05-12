@@ -1,0 +1,7 @@
+POST http://172.16.11.199/api/front/person/projectAnnualSummary.htm?query.projectId=2576
+Accept: application/json, text/plain,
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+
+
+###

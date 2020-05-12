@@ -1,0 +1,10 @@
+
+POST http://localhost:8080/discuss/add
+Accept: application/json, text/plain,
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+
+DiscussTitle=聊天室&userId=caeca614906f4b3a9e6cfd352f016e86&visibleType=1&status=1
+
+###
+

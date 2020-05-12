@@ -1,0 +1,10 @@
+POST http://172.16.11.199:83/government/doGovernmentOverviewStat.htm
+Accept: application/json, text/plain,
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Cookie:_gov_f_ue_l=gO3eIbWvwZOx%2FTgbcJkyg65EcZkwMs3B8c2ArmLFY9P58oFbiyFaViamO4gFkzGCDq6KLIlgfN1jK2WU4OWnEguIYZpWfiACcns8d1%2FP4p23iOiGbqNYq9VRZkFA5xT8ofTVfY6GAVIOJjutF9SeP%2BudFJoTDBh%2FJQfbsVqSNqKv5XP9BczSDHgVNBWAJOxGX0VvMOq9y45yfKAyk92dZ8TNzmHVkwagejuYm29o2HdfI%2BlF4fzyDfyYLzfNTxY2%2BynNxwmOy2B4CJUfHSHplNtRl%2BlicF3smREs46lWnts%3D; JSESSIONID=8407C33CFCBACE550E4008D6457877C6
+
+
+
+###
+
