@@ -1,10 +1,8 @@
-POST http://localhost:8080/user/list
+POST http://localhost:8080/user/login
 Accept: application/json, text/plain,
 Content-Type: application/x-www-form-urlencoded
 X-Requested-With: XMLHttpRequest
-Cookie: caeca614906f4b3a9e6cfd352f016e86re
 
-
-
+userName=fangke&password=123456
 
 ###

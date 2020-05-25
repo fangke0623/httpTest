@@ -1,0 +1,14 @@
+
+POST https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=40453950-b176-4f2d-809b-017c969afe43
+Content-Type: application/json
+Access-Control-Request-Headers:
+
+
+{
+  "msgtype": "markdown",
+  "markdown": {
+    "content": "机器人企业微信群报警通知\n>统计时间:2020-04-28 15:30:00\n>杭州市智慧工地实名制管理应用系统\n>在场人数最大差值:15例\n>出勤人数最大差值:15例\n>扫码出勤人数最大差值:15例\n>"
+  }
+}
+###
+
