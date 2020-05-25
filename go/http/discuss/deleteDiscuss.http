@@ -1,0 +1,8 @@
+POST http://localhost:8090/discuss/delete
+Accept: application/json, text/plain,
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+
+discussId=4
+
+###
