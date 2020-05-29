@@ -1,10 +1,8 @@
-
-POST http://localhost:8090/discuss/edit
+POST http://localhost:8090/discussMsg/add
 Accept: application/json, text/plain,
 Content-Type: application/x-www-form-urlencoded
 X-Requested-With: XMLHttpRequest
 
-discussId=3&discussTitle=聊天室32131&visibleType=2
+discussId=3&manId=1&msgContent=啦啦啦&msgType=0&
 
 ###
-
